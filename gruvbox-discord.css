@@ -62,16 +62,6 @@
     border-color: var(--background-tertiary) !important;
 }
 
-
-
-
-
-/* CSS below this comment is from highlight.js gruvbox-dark theme.
-   https://github.com/highlightjs/highlight.js/blob/master/src/styles/gruvbox-dark.css
-   This CSS makes code blocks within Discord match gruvbox.
-   hightlight.js is copyright 2006 Ivan Sagalaev and licensed under the BSD 3-clause license,
-   as specified here: https://github.com/highlightjs/highlight.js/blob/master/LICENSE            */
-
 /* Gruvbox Red */
 .hljs-deletion,
 .hljs-formula,
