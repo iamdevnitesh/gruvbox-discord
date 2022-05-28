@@ -3,5 +3,7 @@ gruvbox themes for better discord
 
 ## Usage
 ```
-@import url('https://github.com/iamdevnitesh/gruvbox-discord/blob/main/gruvbox-discord.css');
+curl -LO https://raw.githubusercontent.com/iamdevnitesh/gruvbox-discord/main/gruvbox-discord.css
 ```
+
+Copy the File into Themes Folder
